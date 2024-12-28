@@ -1,9 +1,13 @@
 # Convolutional-Neural-Network-from-scratch
 
-In this project, I have implemented a CNN classifier which can classify the number of digits from the images in the MultiMNIST Dataset.
+### This project consists of 2 notebooks:
+1. CNN.ipynb: This notebook contains a CNN classifier that takes an image as input and tells us the number of digits written in that particular image.
+2. MultilabelCNN.ipynb: This notebook contains a CNN classifier that takes an image as input and tells us the digits that are in the image.
 
-Note that the notebook was run on kaggle with GPU.
+### Refer to the notebooks for all the information regarding this project.
 
-The notebook covers all inferences and observations regarding the model. The results for hyperparameter tuning are also available to be checked in the notebook itself.
+### Note that the notebook was run on kaggle with GPU.
 
-Please unzip the dataset file and then run the notebook.
+### The notebook covers all inferences and observations regarding the model. The results for hyperparameter tuning are also available to be checked in the notebook itself.
+
+### Please unzip the dataset file and then run the notebook.
